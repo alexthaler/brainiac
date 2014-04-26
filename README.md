@@ -1,4 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/cmonty/brainiac.png)](http://travis-ci.org/cmonty/brainiac)
 # Brainiac
 
 Brainiac is a company dashboard, optimized for a display on large monitors - so really more of a billboard. It's aimed at software development organizations, but can definitely be used more generally. 
